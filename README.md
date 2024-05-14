@@ -14,17 +14,6 @@
   <li>TMDB API</li>
 </ul>
 
-### Steps to Use:
----
-
-- Download or clone the repository
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-- Go to the directory
-- Run the index.html file
-- Just Type the movie name you want to know the details of, and then press Enter.
-- After that it will automatically display Details and TMDB rating.
 
 
 <h3> ScreenShots </h3>  
